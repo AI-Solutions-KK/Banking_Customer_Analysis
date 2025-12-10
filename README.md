@@ -43,9 +43,19 @@ Banking institution seeking to increase credit card activation and usage among y
 5. **Results Validation**: Statistical comparison of test vs control groups
 
 ## 📁 Files Included
-- `BankingProject_CustomerAnalysis.pdf` - Comprehensive analysis report with visualizations
-- Dashboard Phase 1 - Customer insights and segmentation
-- Dashboard Phase 2 - A/B testing campaign results
+
+- **BankingProject_CustomerAnalysis.pdf** – Comprehensive analysis report with visualizations  
+- **phase_1_atliqo_bank.ipynb** / **phase_1_atliqo_bank.html** – Customer insights, segmentation, and credit analysis 
+
+- **phase_2_atliqo_bank.ipynb** / **phase_2_atliqo_bank.html** – A/B testing campaign evaluation and statistical validation  
+
+**Cleaning & Transformation Process added into jupyter as well as in html to direct view code+output without external installation like IDE/PYTHON just click html and open**
+
+- **cleaned_datasets/** – Final cleaned datasets used in the project  
+- **datasets/** – Raw input datasets before cleaning and transformation  
+- **Project_SnapShot_1.jpg**, **Project_SnapShot_2.jpg**, **Project_SnapShot_3.jpg** – Dashboard preview snapshots  
+- **image.png**, **analysis.png** – Supporting visuals used in documentation  
+- **requirements.txt** – Python dependencies for executing notebooks  
 
 ## 💡 Key Recommendations
 - Expand campaign to full 18-25 segment (246 customers)
